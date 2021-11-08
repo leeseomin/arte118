@@ -61,10 +61,9 @@ bash main.sh
 ###  Results
 
 
-![alt text](https://github.com/leeseomin/arte1/blob/main/arles.png)
+![alt text](https://github.com/leeseomin/arte118/blob/main/IMG_3266x_b_sket5.png)
 
 
- <img src="https://github.com/leeseomin/arte1/blob/main/degas.png" width="2500">
  
 ### make animated png result
 ```
