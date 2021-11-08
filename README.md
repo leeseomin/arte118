@@ -1,5 +1,7 @@
 # arte118
 
+![alt text](https://github.com/leeseomin/arte118/blob/main/IMG_3266x_b_sket5.png)
+
 
 ### Dependency install on ubuntu 20.04 
 
